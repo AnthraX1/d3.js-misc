@@ -3,7 +3,7 @@
 Dynamically calculate the link distance in force layout based on number of children for each node
 minimum distance is 120
 
-nodes variable will be your global array of nodes.
+nodes variable should be your global array of nodes.
 
 */
 
