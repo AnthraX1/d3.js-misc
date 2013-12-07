@@ -1,7 +1,10 @@
 /**
 
-Dynamic calculate the link distance in force layout based on number of children for each node
+Dynamically calculate the link distance in force layout based on number of children for each node
 minimum distance is 120
+
+nodes variable will be your global array of nodes.
+
 */
 
 var force = d3.layout.force().linkDistance(
